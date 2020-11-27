@@ -1,0 +1,140 @@
+header{
+	max-width: 1100px;
+	background: black;
+	margin: 0 auto;
+	font-family: 'Roboto', sans-serif;
+}
+.header-top{
+	justify-content: space-between;
+	display: flex;
+	background: url(https://ak.picdn.net/shutterstock/videos/1018518118/thumb/1.jpg);
+	background-size: 100%;
+height: 200px;
+}
+
+.contacts{
+	margin: 20px;
+	justify-content: space-between;
+	display: flex;
+}
+.contacts a{
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	text-align: left;
+	height: 13%;
+	margin-top: 20px;
+}
+.recall{
+	background-color: orange;
+	border-radius: 30px;
+
+}
+.tel{
+	font-size: 20px;
+	font-weight: bold;
+
+}
+.logo{
+	padding: 5px;
+}
+.contacts p{
+	color: white;
+	padding-left: 10px;
+}
+.tell{
+	margin-right: 20px;
+	padding-top: 10px;
+}
+.recall{
+	font-weight: bold;
+}
+.header-bot{
+	position: relative;
+	justify-content: space-between;
+	
+}
+/*
+<ul>
+				<li class="ten"><img src="http://pngimg.com/uploads/frog/frog_PNG35767.png"  width="150px"><p>Антон поворов</p></li>
+				<li class="ten"><img src="v2.png" width="150px"><p>В чём прийти<p></li>
+				<li class="ten"><img src="v2.png" width="150px"><p>Что с собой взять</p></li>
+				<li class="ten"><img src="v2.png" width="150px"><p>На чём прийти</p></li>
+				<li class="ten"><img src="v2.png" width="150px"><p>Опосумы</p></li>
+			</ul>
+ul{
+	display: flex;
+	justify-content: space-between;
+	color: white;
+	text-transform: uppercase;
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 5px;
+	font-weight: bold;
+	margin-right: 20px;
+	margin-left: 20px;
+	position: absolute;
+	left: 0%;
+	bottom: -72px;
+}
+.frog{
+	position: relative;
+}
+.frog p{
+	position: absolute;
+	left: 8%;
+	bottom: 60%;
+	width: 100%;
+}
+.header-bot ul{
+	color: black;
+	justify-content: space-between;
+}
+.ten{
+	position: relative;
+}
+.ten p{
+	position: absolute;
+	left: -20%;
+	bottom: 24%;
+	width: 100%;
+	text-align: center;
+}
+li.ten{
+	padding-right: 75px;
+}
+.header-bot img{
+	text-align: center;
+}*/
+.pumpkins{
+	justify-content: space-between;
+	display: flex;
+	position: absolute;
+	bottom: -94px;
+	left: 2%;
+}
+.pump{
+	position: relative;
+	padding-right: 20px;
+}
+.pump h2{
+	position: absolute;
+	left: 14%;
+	bottom: 33px;
+}
+.deck{
+	position: absolute;
+	left: -6%;
+	bottom: -70px;
+}
+.frog{
+	position: relative;
+	bottom: -46px; 
+	left: 0%;
+}
+.frog h2{
+	position: absolute;
+	left: 6%;
+	bottom: 77px;
+}
